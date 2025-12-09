@@ -1,11 +1,11 @@
 const questions = [
-  "What has keys but can't open locks?",
-  "What runs but never walks?",
-  "What has a face and two hands but no arms or legs?",
-  "What gets wetter as it dries?",
-  "What belongs to you but others use it more than you do?",
+  "In a code language: TREE → VTGG \nWhat will be the code for ROPE?",
+  "If YESTERDAY was Friday, then what day is TOMORROW?",
+  "Which food brand said: “Taste mein best, mummy aur rest”?",
+  "What is the capital of Canada?",
+  "Which two leaders met in early December 2025 marking the 23rd annual summit between their countries?",
   "What has a neck but no head?",
-  "What has to be broken before you can use it?",
+  "I have no life but i can die what am i?",
   "What has cities, but no houses?",
   "What is always in front of you but can't be seen?",
   "What goes up but never comes down?",
@@ -17,12 +17,12 @@ const questions = [
 ];
 
 const answers = [
-  "piano",
-  "water",
-  "clock",
-  "towel",
-  "your name",
-  "bottle",
+  "TQRG",
+  "Sunday",
+  "Maggi",
+  "Ottawa",
+  "modi and putin",
+  "Battery",
   "egg",
   "map",
   "future",
@@ -35,10 +35,13 @@ const answers = [
 ];
 
 const riddles = [
-  ["I speak without a mouth and hear without ears. What am I?"],
-  ["What has words, but never speaks?"],
-  ["What has an eye but cannot see?"],
-  ["What can you catch but not throw?"],
+  ["\"Far from where lessons glow bright,\nYou stand where silence takes its height.\nMove to the end of this very wall,\nThe corner sitting at the far right call.\""],
+  ["\"This corner watches everything below,\nBut truth appears where teachers show.\nGo straight ahead without turning wide,\nStand beneath where ideas are applied.\""],
+  ["\"Here markers glide and knowledge speaks,\nBut where people enter is what you seek.\nMove right along this teaching plane,\nStop where entry breaks the chain.\""],
+  ["\"Where journeys start and choices are made,\nBehind you rests the quieter shade.\nTurn around and walk the same line straight,\nHalfway up the distant wall is your next gate.\""]
+  ["\"Don’t stay here where the room feels still,\nWhat you seek lies across this hill.\nLook straight ahead—no corner, no fall,\nYour next clue waits on the opposite wall.\""]
+
+  ["\"Behind you, middle of that wall.\""],
   ["What kind of band never plays music?"],
   ["What belongs to you, but other people use it more than you do?"],
   ["What has a thumb and four fingers but is not alive?", "What has a heart that doesn't beat?"],
