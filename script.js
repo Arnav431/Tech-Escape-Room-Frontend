@@ -37,7 +37,7 @@ const answers = [
 
 // Riddles: flat array, riddle1 -> index 0, ... riddle16 -> index 15
 const riddles = [
-  "\"Safed deewar ke samne ek takht hamesha sajta, Wahi kursi aur mez pe aaj tumhaara agla raaz bashta.\"",
+  "\"Safed deewar ke samne ek takht hamesha sajta, Wahi kursi aur mez pe aaj tumhaara agla raaz basta.\"",
   "\"Yeh sheher 25 gharon ka, paanch-paanch ki galiyāon mein basa, Seedhi nahi ulti ginti se teesri gali pakadna, Aur us gali mein left se doosra chhota makan, Us chhat ke neeche, tumhaara chhupa samaan.\"",
   "\"Jahan tum abhi baithe ho, wahan se baatein hawa mein udaana socho, Chalk se nahi, signal se poore room ko padhana socho. Ek chhota sa dabba, jisme taar kam, par jadoo zyada chalta, Chamkati si roshniyon se, poore lab ka saans sambhalta. Us kone mein dhoondo jahan se ‘No Network’ ka rona sabse kam sunai deta\"",
   "\"Jahan se nigaah sab par tikti, wahan se dekhna thoda aage, Jahan roshni be-aawaz kahaani likhe hawa ke saaye. Par jo saamne dikhta, wahi nahi sach maana jaata— Parde ke peeche hi aksar asli raaz paaya jaata.\"",
@@ -50,9 +50,9 @@ const riddles = [
   "\"This corner watches everything below, But truth appears where teachers show. Go straight ahead without turning wide, Stand beneath where ideas are applied.\"",
   "\"Jahan safed parda khamoshi mein kahaniyon ko chhipaati. Us poshak ke peeche hi chupchaap ek raaz basa, Wahi tumhara agla mod, jise dhoondhna ab tumhara kaam hua.\"",
   "\"jahan safed sa parda kahani dikhata hai. use mat pakadna aur bhi bahut hai okayyy!!\"",
-  "\"Mere saamne khade ho jao toh main tumhe dikhata hoon, par kabhi tumhara chehra vaapas nahi dikhata. Main sheesha bhi hoon aur sheesha bilkul bhi nahi. Jis jagah par har waqt ungliyon ki tapping sunai deti hai, wahin table par rakhe sheeshe ke andar main tumhara intezaar kar raha hoon hint : (2×4) pin - password\"",
+  "\"Mere saamne khade ho jao toh main tumhe dikhata hoon, par kabhi tumhara chehra vaapas nahi dikhata. Main sheesha bhi hoon aur sheesha bilkul bhi nahi. Jis jagah par har waqt ungliyon ki tapping sunai deti hai, rakhe sheeshe ke pass mai tumhara intezaar kar raha hoon\"",
   "\"Congatulation!!! You Cracked it!! Escape Code IS \\\"Yeh Dil Mange More...\\\" \"",
-  "\"Mere saamne khade ho jao toh main tumhe dikhata hoon, par kabhi tumhara chehra vaapas nahi dikhata. Main sheesha bhi hoon aur sheesha bilkul bhi nahi. Jis jagah par har waqt ungliyon ki tapping sunai deti hai, wahin table par rakhe sheeshe ke andar main tumhara intezaar kar raha hoon hint : (2×4) pin - password\""
+  "\"Mere saamne khade ho jao toh main tumhe dikhata hoon, par kabhi tumhara chehra vaapas nahi dikhata. Main sheesha bhi hoon aur sheesha bilkul bhi nahi. Jis jagah par har waqt ungliyon ki tapping sunai deti hai, rakhe sheeshe ke pass mai tumhara intezaar kar raha hoon\""
 ];
 
 // getQuestionIndexFromURL, DOM references and BACKEND_URL left unchanged
